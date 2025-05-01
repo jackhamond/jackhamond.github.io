@@ -30,7 +30,7 @@ Truth for the sake of right action
 * Economics  
 * Moral Psychology  
 
-## **🎨 Ars Poetica et Mechanica (Productive Arts)**  
+## **[🎨 Ars Poetica et Mechanica (Productive Arts)](/research/creatio/recipes/)**  
 Truth for the sake of creation
 
 * Poetics & Rhetoric  
