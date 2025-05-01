@@ -7,17 +7,10 @@
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="CSS/styles.css">
   <link rel="stylesheet" href="CSS/textHover.css">
-  <style>
-    #header-image {
-      width: 100px; 
-      height: auto; 
-      opacity: 1
-    }
-  </style>
 </head>
 <body>
   <header>
-    <img src="Media/Images/Iesu, Maria, Ioseph!.png" alt="Iesu, Maria, Ioseph!" id="header-image">
+    <img src="{{ site.header-image }}" alt="Iesu, Maria, Ioseph!" id="header-image" style="width: 100px; height: auto; opacity: 1;">
     <h1>{{ site.title }}</h1>
     <nav>
       <ul>
