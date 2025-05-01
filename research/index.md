@@ -2,15 +2,71 @@
 title: "Research"
 ---
 
-## Personal Interests
+## **📖 Sacra Doctrina (Sacred Doctrine)**  
+Divine knowledge revealed by God
 
-- **Memory**
-  - [Major Method for Catholics](Personal_Interests/Memory/major_method_for_catholics.html)
-  - [Numbers for Catholics](Personal_Interests/Memory/numbers_for_catholics.html)
-  - [Pegword Method for Catholics](Personal_Interests/Memory/pegword_method_for_catholics.html)
+* Theology  
+* Scripture Notes  
+* Saints & Church Fathers  
+* Prayers & Latin Chants  
+* Liturgy & Worship  
 
-- **Poetry**
-  - [Poems To Memorize](Personal_Interests/Poetry/Poems_to_Memorize/poems_to_memorize.html)
+## **🧠 Philosophia Theoretica (Speculative Philosophy)**  
+Truth for the sake of contemplation
 
-- **Recipes**
-  - [Recipes](Personal_Interests/Recipes/recipes.html)
+* Metaphysics  
+* Natural Philosophy (Science, Cosmology, Biology)  
+* Mathematics  
+* Logic  
+* Epistemology  
+
+## **🧭 Philosophia Practica (Practical Philosophy)**  
+Truth for the sake of right action
+
+* Ethics  
+* Politics  
+* Economics  
+* Moral Psychology  
+
+## **🎨 Ars Poetica et Mechanica (Productive Arts)**  
+Truth for the sake of creation
+
+* Poetics & Rhetoric  
+* Cooking & Domestic Arts  
+* Craft & Techne (e.g., Programming, Design)  
+* Music & Chant  
+* Visual Arts  
+
+## **🧩 Anima Humana (The Human Soul)**  
+Study of human interior life and faculties
+
+* Memory & Imagination  
+* Cognitive Science & Mind  
+* Language & Expression  
+* Dreams & Intuition  
+
+## **🗺️ Historia & Traditiones (History & Traditions)**  
+The record of time, culture, and thought
+
+* Ancient & Medieval History  
+* Church History  
+* Modernity & Contemporary Thought  
+* Philosophers & Thinkers  
+
+## **✍️ Meditationes & Quaestiones (Reflections & Inquiries)**  
+Personal thought and structured inquiry
+
+* Daily Reflections  
+* Disputed Questions  
+* Synthesis Notes  
+* Journals & Letters  
+
+## **🛠️ Instrumenta & Systema (Tools & Systems)**  
+Mental and digital infrastructure
+
+* Templates  
+* Vault Map  
+* Memory Systems  
+* Study Methods  
+* Digital Architecture  
+
