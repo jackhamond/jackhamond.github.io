@@ -1,4 +1,6 @@
-title: The Site of Jack Hamond
+title: "Jack Hamond's Site"
 description: 
+url: "https://jackhamond.github.io"
+baseurl: ""
 markdown: kramdown
 theme: null
