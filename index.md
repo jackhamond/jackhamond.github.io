@@ -2,7 +2,7 @@
 title: "Welcome to My Site"
 ---
 
-### &mdash;**NOTE&mdash;**
+### —**NOTE**—
 
 This website is in the early stages of development. Please come back later. Thank you for your patience.
 
