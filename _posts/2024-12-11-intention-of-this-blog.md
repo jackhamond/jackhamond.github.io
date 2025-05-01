@@ -1,7 +1,7 @@
 ---
 Title: "The Intention of This Blog"
 date: 2024-12-11
-excerpt: ""
+excerpt: “In the modern age full of constant consumption, instant gratification, and endless updates one does not have any time to think or reflect on life. The world is full of useless “neccesary” products to waste ones life away and make one feel depressed and lethargic. This blog is not intended to exacerbate these problems…”
 permalink: /blog/2024-12-11.html
 ---
 
