@@ -1,7 +1,11 @@
+---
+title: "Blog"
+---
+
 ## Blog Archive
 
 ### 2024
-- [December](2024/2024_december.html)
+- [December](/blog/2024/12/)
 
 ### 2025
 - *(no posts yet)*
