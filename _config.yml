@@ -11,3 +11,6 @@ navigation:
     link: "/"
   - name: "About Me"
     link: "/about/"
+
+plugins:
+  - jekyll-feed
