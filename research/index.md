@@ -2,6 +2,8 @@
 title: "Research"
 ---
 
+## Outline & Library
+
 ## **📖 Sacra Doctrina (Sacred Doctrine)**  
 Divine knowledge revealed by God
 
