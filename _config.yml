@@ -6,3 +6,8 @@ markdown: kramdown
 theme: null
 header-image: "/assets/media/images/iesu, maria, ioseph!.png"
 
+navigation:
+  - name: "Home"
+    link: "/"
+  - name: "About Me"
+    link: "/about/"
