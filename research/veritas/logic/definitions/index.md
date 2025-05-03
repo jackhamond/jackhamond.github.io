@@ -18,3 +18,32 @@ title: "Definitions"
 * Specific Difference - a relation of universality in virtue of which something can be said of several by determining what in an essence distinguishes a species
 * Property - a relation of universality in virtue of which something can be said of a species, and its inferiors, as belonging to it always and necessarily (and only - if a specific property)
 * Accident - a relation of universality in virtue of which something can be said of a species, and its inferiors, as belonging to it contingently
+* Categories (predicaments) - the supreme genera of being
+* Univocal - one name, and one meaning
+* Equivocal - one name, two (or more) unrelated meanings
+* Analogical - one name with two distinct meanings, but from a certain point of view, the same
+* Substance - that which it befits to be in itself and not in another
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
