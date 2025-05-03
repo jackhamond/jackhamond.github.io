@@ -1,5 +1,6 @@
 ---
 title: "A Religious Use of Taking Tobacco"
+tags: [tobacco]
 ---
 
 ## A Religious Use of Taking Tobacco
