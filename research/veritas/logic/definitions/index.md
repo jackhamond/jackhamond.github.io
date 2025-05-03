@@ -14,3 +14,7 @@ title: "Definitions"
 * Note - that by which something is known and discerned from others
 * Predicable - a mode of universality by which some one thing can be in several and predicated of them
 * Genus - a relation of universality in virtue of which something can be said of several that differ specifically
+* Species - a relation of universality in virtue of which some thing can be said of several that differ in number (as individuals)
+* Specific Difference - a relation of universality in virtue of which something can be said of several by determining what in an essence distinguishes a species
+* Property - a relation of universality in virtue of which something can be said of a species, and its inferiors, as belonging to it always and necessarily (and only - if a specific property)
+* Accident - a relation of universality in virtue of which something can be said of a species, and its inferiors, as belonging to it contingently
