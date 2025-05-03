@@ -12,4 +12,4 @@ Every so often I will publish a blog post in the [Blog](/blog/) section. The blo
 
 ## Links
 
-This website is my own, personal website. I have a professional website as well which is essentially an extended résumé. My professional website can be found at (https://jackhamondpro.github.io)[https://jackhamondpro.github.io].
+This website is my own, personal website. I have a professional website as well which is essentially an extended résumé. My professional website can be found at [https://jackhamondpro.github.io](https://jackhamondpro.github.io).
