@@ -1,5 +1,6 @@
 ---
 title: "Definitions"
+tags: [logic, definition]
 ---
 
 ## Defintions
