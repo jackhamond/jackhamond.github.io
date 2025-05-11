@@ -3,7 +3,7 @@ title: "A Religious Use of Taking Tobacco"
 tags: [tobacco]
 ---
 
-## A Religious Use of Taking Tobacco
+# A Religious Use of Taking Tobacco
 
 Anonymous; 16th-century English
 
