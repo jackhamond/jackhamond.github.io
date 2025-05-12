@@ -2,7 +2,7 @@
 title: "Limbo"
 ---
 
-## Limbo
+# Limbo
 
 By Sr. Mary Ada OSJ
 
