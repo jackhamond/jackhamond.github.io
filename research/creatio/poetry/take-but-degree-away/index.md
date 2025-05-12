@@ -2,7 +2,7 @@
 title: "Take but degree away"
 ---
 
-## Take but degree away
+# Take but degree away
 
 By William Shakespeare
 
