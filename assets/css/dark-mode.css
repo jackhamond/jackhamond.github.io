@@ -1,0 +1,47 @@
+body.dark-mode {
+  background-color: #1e1e1e;
+  color: #f5f5dc;
+}
+
+body.dark-mode header {
+  background-color: #4b000f;
+  color: #f5f5dc;
+}
+
+body.dark-mode nav ul li a {
+  background-color: #ccc;
+  color: #1e1e1e;
+}
+
+body.dark-mode nav ul li a:hover {
+  background-color: #bbb;
+}
+
+body.dark-mode footer {
+  background-color: #111;
+  color: #eee;
+}
+
+body.dark-mode .sidebar,
+body.dark-mode .recent-posts {
+  background-color: #2a2a2a;
+  color: #f5f5dc;
+}
+
+body.dark-mode .post-preview h4,
+body.dark-mode .post-preview h4 a {
+  color: #ff6666;
+}
+
+body.dark-mode .post-preview h4 a:hover {
+  color: #ff9999;
+}
+
+body.dark-mode button.dropdown-toggle {
+  background-color: #4b000f;
+  color: #f5f5dc;
+}
+
+body.dark-mode button.dropdown-toggle:hover {
+  background-color: #660f1a;
+}
