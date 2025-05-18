@@ -4,7 +4,7 @@ title: "Research"
 
 ## Outline & Library
 
-## **📖 Sacra Doctrina (Sacred Doctrine)**  
+<!-- ## **📖 Sacra Doctrina (Sacred Doctrine)**  
 Divine knowledge revealed by God
 
 * Theology  
@@ -28,18 +28,18 @@ Truth for the sake of right action
 * Ethics  
 * Politics  
 * Economics  
-* Moral Psychology  
+* Moral Psychology  -->
 
 ## **🎨 [Ars Poetica et Mechanica (Productive Arts)](/research/creatio/)**  
 Truth for the sake of creation
 
-* Poetics & Rhetoric  
-* Cooking & Domestic Arts  
-* Craft & Techne (e.g., Programming, Design)  
-* Music & Chant  
-* Visual Arts  
+* Poetics <!--& Rhetoric --> 
+* Cooking <!--& Domestic Arts-->  
+<!--* Craft & Techne (e.g., Programming, Design)  -->
+<!--* Music & Chant  -->
+<!--* Visual Arts  -->
 
-## **🧩 Anima Humana (The Human Soul)**  
+<!-- ## **🧩 Anima Humana (The Human Soul)**  
 Study of human interior life and faculties
 
 * Memory & Imagination  
@@ -70,5 +70,5 @@ Mental and digital infrastructure
 * Vault Map  
 * Memory Systems  
 * Study Methods  
-* Digital Architecture  
+* Digital Architecture  -->
 
