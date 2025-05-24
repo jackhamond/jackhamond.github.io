@@ -1,7 +1,7 @@
 current:
   title: "The Hobbit"
   author: "J.R.R. Tolkien"
-  link: "https://www.goodreads.com/book/show/5907.The_Hobbit"
+  link: ""
   notes: ""
 
 next:
@@ -13,10 +13,10 @@ next:
 recent:
   - title: "The Quantum Enigma"
     author: "Wolfgang Smith"
-    link: ""
+    link: "https://philos-sophia.org/product/the-quantum-enigma/"
   - title: "Voice of the Trumpet"
     author: "David Allen White Ph.D"
     link: "https://stmarcelinitiative.org/product/the-voice-of-the-trumpet/"
-  - title: "Marcel Lefebvre"
-    author: "Tissier de Mallerais"
-    link: ""
+  - title: "Marcel Lefebvre: The Biography"
+    author: "Bp. Bernard Tissier de Mallerais"
+    link: "https://angeluspress.org/products/marcel-lefebvre-biography"
