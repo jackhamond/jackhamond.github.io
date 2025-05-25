@@ -80,13 +80,13 @@ h3 {
   margin-bottom: 10px;
 }
 
-.month-list {
+.item {
   display: none;
   list-style: none;
   padding-left: 20px;
 }
 
-.month-list li {
+.item li {
   margin-bottom: 5px;
 }
 
