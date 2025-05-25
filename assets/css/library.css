@@ -1,0 +1,9 @@
+.reading-sidebar {
+  flex: 1;
+  border-left: 2px solid #ccc;
+  padding-left: 1rem;
+  font-family: Georgia, serif;
+  position: sticky;
+  top: 2rem; /* distance from top of viewport */
+  align-self: flex-start;
+}
