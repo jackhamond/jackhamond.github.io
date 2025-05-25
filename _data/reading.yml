@@ -1,22 +1,15 @@
 current:
   title: "The Hobbit"
   author: "J.R.R. Tolkien"
-  link: ""
-  notes: ""
 
 next:
   title: "The Lord of the Rings"
   author: "J.R.R. Tolkien"
-  link: ""
-  notes: ""
 
-recent:
+previous:
   - title: "The Quantum Enigma"
     author: "Wolfgang Smith"
-    link: "https://philos-sophia.org/product/the-quantum-enigma/"
   - title: "Voice of the Trumpet"
     author: "David Allen White Ph.D"
-    link: "https://stmarcelinitiative.org/product/the-voice-of-the-trumpet/"
   - title: "Marcel Lefebvre: The Biography"
     author: "Bp. Bernard Tissier de Mallerais"
-    link: "https://angeluspress.org/products/marcel-lefebvre-biography"
