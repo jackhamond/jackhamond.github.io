@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="stylesheet" href="/assets/css/textHover.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> <!-- Include jQuery for ease of DOM manipulation -->
+</head>
+<body>
+  <header>
+    <img src="{{ site.header-image }}" alt="Iesu, Maria, Ioseph!" id="header-image" style="width: 100px; height: auto; opacity: 1;">
+    <h1>{{ page.title }}</h1>
+    
+{% include navbar.html %}
+    
+    <button onclick="toggleDarkMode()" style="margin-top: 10px; padding: 5px 10px;">
+      Toggle Dark Mode
+    </button>
+  </header>
+
+  <main>
+    <div class="blog-container">
+      <aside class="sidebar">
+        <h3>Blog Archive</h3>
+        <ul class="year-list">
+          <li>
+            <button class="dropdown-toggle">2024</button>
+            <ul class="month-list">
+              <li><a href="2024/2024_december.html">December</a></li>
+            </ul>
+          </li>
+          <li>
+            <button class="dropdown-toggle">2025</button>
+            <ul class="month-list">
+              <li></li>
+            </ul>
+          </li>
+        </ul>
+      </aside>
+
+      <!-- Main Content Area (Recent Blog Posts) -->
+      <section class="recent-posts">
+        <h3>Recent Posts</h3>
+        <article class="post-preview">
+          <h4><a href="2024/December/2024-12-23">St. Andrew Novena</a></h4>
+          <p><b>Posted on December 23, 2024</b></p>
+          <p>In this blog post, I provde a PDF of the St. Andrew Novena. I also include the Latin text.</p>
+        </article>
+        <article class="post-preview">
+          <h4><a href="2024/December/2024-12-11">The Intention of This Blog</a></h4>
+          <p><b>Posted on December 11, 2024</b></p>
+          <p>In the modern age full of constant consumption, instant gratification, and endless updates one does not have any time to think or reflect on life. The world is full of useless "neccesary" products to waste ones life away and make one feel depressed and lethargic. This blog is not intended to exacerbate these problems...</p>
+        </article>
+      </section>
+    </div>
+  </main>
+
+{% include footer.html %}
+
+  <script src="../JavaScript/blog.js"></script> <!-- Custom JS for dropdown functionality -->
+</body>
+</html>
