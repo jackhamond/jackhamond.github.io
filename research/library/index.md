@@ -1,5 +1,6 @@
 ---
 title: "Personal Library"
+layout: library
 ---
 
 <ul>
