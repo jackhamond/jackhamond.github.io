@@ -1,0 +1,29 @@
+<aside class="reading-sidebar">
+  <section>
+    <h2>📖 Currently Reading</h2>
+    <p>
+      <strong>{{ site.data.reading.current.title }}</strong><br>
+      <em>{{ site.data.reading.current.author }}</em>
+    </p>
+  </section>
+
+  <section>
+    <h2>📚 Next to Read</h2>
+    <p>
+      <strong>{{ site.data.reading.next.title }}</strong><br>
+      <em>{{ site.data.reading.next.author }}</em>
+    </p>
+  </section>
+
+  <section>
+    <h2>🕮 Previously Read</h2>
+    <ul>
+      {% for book in site.data.reading.previous %}
+        <li>
+          <strong>{{ book.title }}</strong><br>
+          <em>{{ book.author }}</em>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+</aside>
