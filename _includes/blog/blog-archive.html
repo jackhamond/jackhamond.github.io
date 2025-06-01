@@ -1,0 +1,35 @@
+<aside class="sidebar">
+  <h3>Blog Archive</h3>
+  <ul class="year-list">
+    {% assign year_months = "" | split: "" %}
+    {% for post in site.posts %}
+      {% assign year_month = post.date | date: "%Y-%m" %}
+      {% unless year_months contains year_month %}
+        {% assign year_months = year_months | push: year_month %}
+      {% endunless %}
+    {% endfor %}
+    {% assign sorted_year_months = year_months | sort | reverse %}
+
+    {% assign current_year = "" %}
+    {% for ym in sorted_year_months %}
+      {% assign year = ym | slice: 0, 4 %}
+      {% assign month_number = ym | slice: 5, 2 %}
+      {% assign month_name = ym | date: "%B" %}
+
+      {% if year != current_year %}
+        {% if current_year != "" %}
+            </ul>
+          </li>
+        {% endif %}
+        <li>
+          <button class="dropdown-toggle">{{ year }}</button>
+          <ul class="month-list">
+        {% assign current_year = year %}
+      {% endif %}
+
+      <li><a href="/blog/{{ ym }}.html">{{ month_name }}</a></li>
+    {% endfor %}
+      </ul>
+    </li>
+  </ul>
+</aside>
