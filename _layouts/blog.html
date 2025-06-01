@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+  {% include header.html %}
+  <main>
+      <aside class="sidebar">
+        <h3>Blog Archive</h3>
+        <ul class="year-list">
+          <li>
+            <button class="dropdown-toggle">2024</button>
+            <ul class="month-list">
+              <li><a href="2024/2024_december.html">December</a></li>
+            </ul>
+          </li>
+          <li>
+            <button class="dropdown-toggle">2025</button>
+            <ul class="month-list">
+              <li></li>
+            </ul>
+          </li>
+        </ul>
+      </aside>
+    {{ content }}
+    
+  </main>
+  {% include footer.html %}
+<script src="/assets/js/theme-toggle.js"></script>
+</body>
+</html>
