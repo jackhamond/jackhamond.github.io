@@ -4,25 +4,19 @@
 <body>
   {% include header.html %}
   <main>
-      <aside class="sidebar">
-        <h3>Blog Archive</h3>
-        <ul class="year-list">
-          <li>
-            <button class="dropdown-toggle">2024</button>
-            <ul class="month-list">
-              <li><a href="2024/2024_december.html">December</a></li>
-            </ul>
-          </li>
-          <li>
-            <button class="dropdown-toggle">2025</button>
-            <ul class="month-list">
-              <li></li>
-            </ul>
-          </li>
-        </ul>
-      </aside>
-    {{ content }}
-    
+    <div class="blog-container">
+      {% include blog/blog-archive.html %}
+      <section class="recent-posts">
+        <h3>Recent Posts</h3>
+        {% for post in site.posts limit: 3 %}
+        <article class="post-preview">
+          <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+          <p><b>Posted on {{ post.date | date: "%B %d, %Y" }}</b></p>
+          <p>{{ post.excerpt }}</p>
+        </article>
+        {% endfor %}
+      </section>
+    </div>
   </main>
   {% include footer.html %}
 <script src="/assets/js/theme-toggle.js"></script>
