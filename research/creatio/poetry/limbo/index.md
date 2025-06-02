@@ -4,7 +4,7 @@ title: "Limbo"
 
 # Limbo
 
-By Sr. Mary Ada OSJ
+*By Sr. Mary Ada OSJ*
 
 The ancient greyness shifted  
 Suddenly and thinned  
