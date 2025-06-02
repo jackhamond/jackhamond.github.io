@@ -5,7 +5,7 @@ tags: [tobacco]
 
 # A Religious Use of Taking Tobacco
 
-Anonymous; 16th-century English
+*Anonymous; 16th-century English*
 
 The Indian weed witherèd quite,  
 Green at morn, cut down at night,  
