@@ -5,7 +5,7 @@ tags: [tobacco]
 
 # Edifying Thoughts of a Tobacco Smoker
 
-Johann Sebastian Bach
+*By Johann Sebastian Bach*
 
 Each time I take my pipe'n tobacco
 With goodly wad filled to the brim
