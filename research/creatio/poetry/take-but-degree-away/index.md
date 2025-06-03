@@ -1,10 +1,13 @@
 ---
 title: "Take but degree away"
+author: "By William Shakespeare"
+excerpt: "Take but degree away, untune that string,  
+And, hark, what discord follows! each thing meets  "
 ---
 
 # Take but degree away
 
-By William Shakespeare
+*By William Shakespeare*
 
 Take but degree away, untune that string,  
 And, hark, what discord follows! each thing meets  
