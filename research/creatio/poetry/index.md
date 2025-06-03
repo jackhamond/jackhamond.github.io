@@ -2,35 +2,17 @@
 title: "Poems"
 ---
 
-## [A Religious Use of Taking Tobacco](/research/creatio/poetry/a-religous-use-of-taking-tobacco/)
+{% assign poems = site.pages | where_exp: "page", "page.path contains '/research/creatio/poetry/' and page.path != '/research/creatio/poetry/index.md'" %}
+{% assign sorted_poems = poems | sort: "title" %}
 
-*Anonymous; 16th-century English*
+{% for poem in sorted_poems %}
+## [{{ poem.title }}]({{ poem.url }})
 
-The Indian weed witherèd quite,
-Green at morn, cut down at night…
+*By {{ poem.author }}*
 
-## [Edifying Thoughts of a Tobacco Smoker](/research/creatio/poetry/edifying-thoughts-of-a-tobacco-smoker/)
+{{ poem.excerpt }}
 
-*By Johann Sebastian Bach*  
-
-Each time I take my pipe'n tobacco  
-With goodly wad filled to the brim  
-
-## [Limbo](/research/creatio/poetry/limbo)
-
-*By Sr. Mary Ada OSJ*
-
-The ancient greyness shifted
-Suddenly and thinned…
-
-## [Take but degree away](/research/creatio/poetry/take-but-degree-away/)
-
-*By William Shakespeare*
-
-Take but degree away, untune that string,  
-And, hark, what discord follows…
-
-## [The Betrothed](/research/creatio/poetry/the-betrothed/)
+{% endfor %}
 
 *By Rudyard Kipling*  
 
