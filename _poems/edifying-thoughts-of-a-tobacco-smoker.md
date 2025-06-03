@@ -2,7 +2,7 @@
 title: "Edifying Thoughts of a Tobacco Smoker"
 author: "Johann Sebastian Bach"
 excerpt: |
-  Each time I take my pipe'n tobacco  
+  Each time I take my pipe'n tobacco
   With goodly wad filled to the brim
 tags: [tobacco]
 ---
