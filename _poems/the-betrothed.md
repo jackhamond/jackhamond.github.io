@@ -1,6 +1,6 @@
 ---
 title: "The Betrothed"
-author: "By Rudyard Kipling"
+author: "Rudyard Kipling"
 excerpt: "Open the old cigar-box, get me a Cuba stout,  
 For things are running crossways, and Maggie and I are out.  "
 tags: [tobacco]
