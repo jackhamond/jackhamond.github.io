@@ -1,5 +1,8 @@
 ---
 title: "Limbo"
+author: "By Sr. Mary Ada OSJ"
+excerpt: "The ancient greyness shifted  
+Suddenly and thinned  "
 ---
 
 # Limbo
