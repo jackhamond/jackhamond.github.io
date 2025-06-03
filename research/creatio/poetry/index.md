@@ -2,9 +2,8 @@
 title: "Poems"
 ---
 
-{% assign poems = site.pages 
-  | where_exp: "page", "page.path contains '/research/creatio/poetry/' and page.path != '/research/creatio/poetry/index.md'" 
-%}
+{% assign all_poems = site.pages | where_exp: "page", "page.path contains '/research/creatio/poetry/'" %}
+{% assign poems = all_poems | reject: "path", "/research/creatio/poetry/index.md" %}
 {% assign sorted_poems = poems | sort: "title" %}
 
 {% for poem in sorted_poems %}
