@@ -2,7 +2,7 @@
 title: "A Religious Use of Taking Tobacco"
 author: "Anonymous; 16th-century English"
 excerpt: |
-  The Indian weed witherèd quite,
+  The Indian weed witherèd quite,  
   Green at morn, cut down at night,
 tags: [tobacco]
 ---
