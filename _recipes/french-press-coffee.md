@@ -1,6 +1,6 @@
 ---
 title: "How to Make French Press Coffee"
-tags: [garden]
+tags: [coffee]
 ---
 
 # How to Make French Press Coffee
