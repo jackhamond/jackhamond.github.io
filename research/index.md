@@ -2,6 +2,6 @@
 title: "Research"
 ---
 
-* [Recipes](/indices/recipes)
-* [Poems](/indices/poems/)
+* [Recipes](/indices/recipes.html)
+* [Poems](/indices/poems.md)
 
