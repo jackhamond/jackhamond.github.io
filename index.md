@@ -10,5 +10,5 @@ Thank you for vising my website. The purpose of this website is to serve as a pe
 
 |:--------------------------------------------------------:|:-----------------------------------------|
 | [Professional Website](https://jackhamondpro.github.io/) | Basically my résumé in a minimal website |
-| [Links](/links/)                                         | Links to other sites                     |
+| [Links](/indices/links.html)                                         | Links to other sites                     |
 
