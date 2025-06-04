@@ -1,0 +1,22 @@
+---
+layout: default
+title: Bookmarks
+---
+
+{% assign all_links = site.data.links %}
+{% assign tags = all_links | map: "tags" | uniq | flatten | sort %}
+
+{% for tag in tags %}
+<h2>{{ tag }}</h2>
+<ul>
+  {% assign links_by_tag = all_links | where_exp: "item", "item.tags contains tag" %}
+  {% assign sorted_links = links_by_tag | sort: "title" %}
+
+  {% for link in sorted_links %}
+    <li>
+      <a href="{{ link.url }}">{{ link.title }}</a><br/>
+      <small>{{ link.description }}</small>
+    </li>
+  {% endfor %}
+</ul>
+{% endfor %}
