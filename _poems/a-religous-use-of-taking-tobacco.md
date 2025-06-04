@@ -8,10 +8,6 @@ tags: [tobacco]
 layout: poems
 ---
 
-# A Religious Use of Taking Tobacco
-
-*By Anonymous; 16th-century English*
-
 The Indian weed witherèd quite,  
 Green at morn, cut down at night,  
 Shows thy decay;  
