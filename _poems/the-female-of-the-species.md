@@ -4,12 +4,9 @@ author: "Rudyard Kipling"
 excerpt: |
   When the Himalayan peasant meets the he-bear in his pride,  
   He shouts to scare the monster, who will often turn aside.
-tags: 
+tags:
+layout: poems
 ---
-
-# The White Man’s Burden
-
-*By Rudyard Kipling*
 
 When the Himalayan peasant meets the he-bear in his pride,  
 He shouts to scare the monster, who will often turn aside.  
