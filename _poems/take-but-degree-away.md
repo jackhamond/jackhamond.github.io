@@ -4,11 +4,8 @@ author: "William Shakespeare"
 excerpt: |
   Take but degree away, untune that string,  
   And, hark, what discord follows! each thing meets
+layout: poems
 ---
-
-# Take but degree away
-
-*By William Shakespeare*
 
 Take but degree away, untune that string,  
 And, hark, what discord follows! each thing meets  
