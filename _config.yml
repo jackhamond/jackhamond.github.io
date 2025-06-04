@@ -10,3 +10,7 @@ collections:
   poems:
     output: true
     permalink: /research/poems/:name/
+  recipes:
+    output: true
+    permalink: /research/recipes/:name/
+    
