@@ -5,11 +5,8 @@ excerpt: |
   Each time I take my pipe'n tobacco  
   With goodly wad filled to the brim
 tags: [tobacco]
+layout: poems
 ---
-
-# Edifying Thoughts of a Tobacco Smoker
-
-*By Johann Sebastian Bach*
 
 Each time I take my pipe'n tobacco  
 With goodly wad filled to the brim  
