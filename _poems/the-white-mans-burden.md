@@ -5,11 +5,8 @@ excerpt: |
   Take up the White Man's burden—  
     Send forth the best ye breed—
 tags: 
+layout: poems
 ---
-
-# The White Man’s Burden
-
-*By Rudyard Kipling*
 
 Take up the White Man's burden—  
     Send forth the best ye breed—  
