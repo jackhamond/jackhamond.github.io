@@ -1,5 +1,5 @@
 ---
-title: "How to Make Natural Homemade Conditioner"
+title: "How to Make Conditioner"
 tags: [garden]
 ---
 
