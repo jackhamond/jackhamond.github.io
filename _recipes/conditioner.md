@@ -1,6 +1,5 @@
 ---
 title: "How to Make Conditioner"
-tags: [garden]
 ---
 
 # How to Make Conditioner
