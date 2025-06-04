@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Recipes
 permalink: /research/recipes/
+layout: default
 ---
 
 {% assign sorted_recipes = site.recipes | sort: "title" %}
