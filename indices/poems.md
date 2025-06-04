@@ -1,5 +1,7 @@
 ---
 title: "Poems"
+layout: default
+permalink: /research/poems
 ---
 
 {% assign sorted_poems = site.poems | sort: "title" %}
