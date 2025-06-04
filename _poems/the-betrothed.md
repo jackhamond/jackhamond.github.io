@@ -5,11 +5,8 @@ excerpt: |
   Open the old cigar-box, get me a Cuba stout,  
   For things are running crossways, and Maggie and I are out.
 tags: [tobacco]
+layout: poems
 ---
-
-# The Betrothed
-
-*By Rudyard Kipling*  
 
 *“You must choose between me and your cigar.”*  
 — Breach of Promise Case, circa 1885.  
