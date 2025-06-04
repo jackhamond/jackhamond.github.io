@@ -5,6 +5,7 @@ excerpt: |
   The Indian weed witherèd quite,  
   Green at morn, cut down at night,
 tags: [tobacco]
+layout: poems
 ---
 
 # A Religious Use of Taking Tobacco
