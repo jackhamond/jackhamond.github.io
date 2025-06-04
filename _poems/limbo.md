@@ -4,11 +4,8 @@ author: "Sr. Mary Ada OSJ"
 excerpt: |
   The ancient greyness shifted  
   Suddenly and thinned
+layout: poems
 ---
-
-# Limbo
-
-*By Sr. Mary Ada OSJ*
 
 The ancient greyness shifted  
 Suddenly and thinned  
