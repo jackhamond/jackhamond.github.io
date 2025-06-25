@@ -8,8 +8,4 @@ Hello, my name is Jack Hamond. I am a traditional Roman Catholic husband and fat
 
 ## Website Structure
 
-Every so often I will publish a blog post in the [Blog](/blog/) section. The blog posts will be in the order of which I make them. When I do research on a subject, I will publish to the [Research](/research/) section whhich will be more complete, organized, and coherent.
-
-## Links
-
-This website is my own, personal website. I have a professional website as well which is essentially an extended résumé. My professional website can be found at [https://jackhamondpro.github.io](https://jackhamondpro.github.io).
+Every so often I will publish a blog post in the [Blog](/blog/) section. The blog posts will be in the order of which I make them. When I do research on a subject, I will publish to the [Research](/research/) section whhich will be more complete, organized, and coherent. This website is and will forever be in construction.
