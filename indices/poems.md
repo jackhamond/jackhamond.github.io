@@ -9,7 +9,7 @@ permalink: /research/poems
 {% for poem in sorted_poems %}
 ## [{{ poem.title }}]({{ poem.url }})
 
-*By {{ poem.author | default: "Anonymous" }}*
+*{{ poem.author | default: "Anonymous" }}*
 
 {{ poem.excerpt }}
 
