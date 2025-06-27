@@ -70,7 +70,7 @@ As he left her, hardly won—
 Oh, he jousts for her sweet favor,  
 Now his task for God is done.  
 
-## Envoy  
+**Envoy**  
 O my good knights, may God keep you,  
 Whom I’ve loved so evermore,  
 That in loving you I’ve almost  
