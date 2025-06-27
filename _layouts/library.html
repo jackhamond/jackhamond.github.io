@@ -4,15 +4,16 @@
 <body>
   {% include header.html %}
   <main>
-    
-{% include library/reading-sidebar.html %}
-    
-    {{ content }}
-    
+    <div class="main-container">
+      <main class="content">
+        {{ content }}
+      </main>
+      <aside class="reading-sidebar">
+        {% include library/reading-sidebar.html %}
+      </aside>
+    </div>
   </main>
-  
 {% include footer.html %}
-  
 <script src="/assets/js/theme-toggle.js"></script>
 </body>
 </html>
