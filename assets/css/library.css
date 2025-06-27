@@ -1,9 +1,33 @@
-.reading-sidebar {
+.main-container {
+  display: flex;
+  gap: 2rem;
+}
+
+.content {
   flex: 1;
-  border-left: 2px solid #ccc;
-  padding-left: 1rem;
-  font-family: Georgia, serif;
+}
+
+.reading-sidebar {
+  width: 250px;
   position: sticky;
-  top: 2rem; /* distance from top of viewport */
+  top: 1rem;
   align-self: flex-start;
+  background-color: #f9f9f9;
+  padding: 1rem;
+  border-left: 1px solid #ccc;
+  height: fit-content;
+}
+
+@media (max-width: 768px) {
+  .main-container {
+    flex-direction: column;
+  }
+
+  .reading-sidebar {
+    position: relative;
+    top: auto;
+    border-left: none;
+    border-top: 1px solid #ccc;
+    margin-top: 2rem;
+  }
 }
