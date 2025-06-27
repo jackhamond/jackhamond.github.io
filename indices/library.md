@@ -1,6 +1,7 @@
 ---
 title: "Personal Library"
 layout: library
+permalink: /library/
 ---
 
 <ul>
