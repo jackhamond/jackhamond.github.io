@@ -4,8 +4,8 @@ author: "Eustace Deschamps"
 excerpt: |
   You who seek the knightly order  
   Must begin your life anew;  
-	Watch and pray you most devoutly,  
-	Pride and wicked sin eschew;  
+  Watch and pray you most devoutly,  
+  Pride and wicked sin eschew;  
 tags: [chivalry]
 layout: poems
 ---
