@@ -36,6 +36,6 @@ Liberality and justice Cherish;
 seek the company of other knights  
 
 That, from their wisdom,  
-Yours may grow to like degree; 
+Yours may grow to like degree;  
 Thus' a knight like Alexander  
 May you hope in time to be.  
