@@ -1,7 +1,7 @@
 ---
 Title: "The Knight is Forged at Home"
 date: 2025-06-27
-excerpt: “…”
+excerpt: “There was once a time when the Church stood at the center of every city, and Christ was King not just in name but in law and life, there were men called knights. They fasted before battle. They kept vigil in chapels with their swords laid across the altar. They stood before bishops who gave them not just a sword—but a mission: **To defend the weak. To fight for the Church. To live as Christian soldiers.**…”
 permalink: /blog/2025-06-27.html
 tags: [chivalry]
 ---
