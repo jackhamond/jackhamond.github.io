@@ -15,10 +15,9 @@ tags: [chivalry]
 
 ## The Call of the Trumpet
 
-> "Blow ye the trumpet in Sion, sound an alarm in my holy mountain, let all the inhabitants of the land tremble: because the day of the Lord cometh, because it is nigh at hand"
-> — *Joel 2:1*
+What is a knight? One may think of a knight as a man in armor with a sword in one hand and a shield in the other, but this is only what a knight wears—it does not tell you what a knight is. Who is the man in the armor and why does he have a sword and shield? What makes him a knight? Who has made him a knight? What is his reason for being a knight?
 
-There was once a time when the Church stood at the center of every city, and Christ was King not just in name but in law and life, there were men called knights. They fasted before battle. They kept vigil in chapels with their swords laid across the altar. They stood before bishops who gave them not just a sword—but a mission: **To defend the weak. To fight for the Church. To live as Christian soldiers.**
+When the Church stood at the center of every city, and Christ was King not just in name but in law and life, there were men called knights. They fasted before battle. They kept vigil in chapels with their swords laid across the altar. They stood before bishops who gave them not just a sword—but a mission: **To defend the weak. To fight for the Church. To live as Christian soldiers.**
 
 At the imposition of the sword that was given at a knighting ceremony that you could find in the Roman Pontifical up until 1962 the bishop would say: Receive this sword, in the name of the + Father and of the + Son, and of the + Holy Ghost. Use it for thine own defense and for the defense of Holy Mother Church, and to the confounding of the enemies of the Cross of Christ and the Christian faith, and inasmuch as our human frailty permits, may you never unjustly strike any man. May Our Lord deign to grant you this, who lives with the Father and the Holy Ghost, world without end. Amen.
 
@@ -34,6 +33,8 @@ In situations where a knight was made with the proper preparation, the actual kn
 1. Thou shalt never lie, and shalt remain faithful to thy pledged word.  
 1. Thou shalt be generous, and give largesse to everyone.  
 1. Thou shalt be everywhere and always the champion of the Right and the Good against Injustice and Evil.
+
+
 
 ## The Forge — Home and Family
 
