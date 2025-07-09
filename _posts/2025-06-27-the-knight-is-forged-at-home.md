@@ -15,7 +15,7 @@ tags: [chivalry]
 
 ## Beyond the Armour
 
-What is a knight? One may think of a knight as a man in armour with a sword in one hand and a shield in the other, but this is only what a knight wears—it does not tell you what a knight is. Who is the man in the armour and why does he have a sword and shield? What makes him a knight? Who has made him a knight? What is his reason for being a knight?
+What is a knight? One may think of a knight as a man in armour with a sword in one hand and a shield in the other, but this is only what a knight wears; it does not tell you what a knight is. Who is the man in the armour and why does he have a sword and shield? What makes him a knight? Who has made him a knight? What is his reason for being a knight?
 
 When the Church stood at the center of every city, and Christ was King not just in name but in law and life, there were men called knights. They fasted before battle. They kept vigil in chapels with their swords laid across the altar. They stood before bishops who gave them not just a sword—but a mission: **To defend the weak. To fight for the Church. To live as Christian soldiers.**
 
@@ -23,7 +23,7 @@ When the Church stood at the center of every city, and Christ was King not just 
 
 At the imposition of the sword that was given at a knighting ceremony that you could find in the Roman Pontifical up until 1962 the bishop would say: Receive this sword, in the name of the + Father and of the + Son, and of the + Holy Ghost. Use it for thine own defense and for the defense of Holy Mother Church, and to the confounding of the enemies of the Cross of Christ and the Christian faith, and inasmuch as our human frailty permits, may you never unjustly strike any man. May Our Lord deign to grant you this, who lives with the Father and the Holy Ghost, world without end. Amen.
 
-In situations where a knight was made with the proper preparation, the actual knighting ceremony was preceded by a three day fast. The knightly code was contained in what is commonly known as the Ten Commandments of Chivalry. The Ten Commandments of Chivalry are:  
+Where proper preparation was made, the actual ceremony was preceded by a three-day fast. The knightly code was contained in what is commonly known as the Ten Commandments of Chivalry. The Ten Commandments of Chivalry are:  
 
 1. Thou shalt believe all that the Church teaches and shalt observe all its directions.  
 1. Thou shalt defend the Church.
@@ -42,7 +42,7 @@ I believe that there are many ways that we can embody the spirit of the knight a
 
 Although we cannot become a knight in the medieval sense with a sword and shield, armour, and ceremony, we can and must strive after the principles of the knight. 
 
-In his masterpiece *La Chevalerie* [Chivarly], Léon Gautier describes the life of a knight: his birth, Baptism, childhood, education, knighthood, espousals, and domestic and military life.
+In his masterpiece *La Chevalerie* (*Chivarly*), Léon Gautier describes the life of a knight: his birth, Baptism, childhood, education, knighthood, espousals, and domestic and military life.
 
 > When a noble child was very young, his mother taught him his prayer. His formal education began at seven years of age. The religious instruction generally did not consist of a special course, since all the acts of the young knight were stamped with Christian ideals.  
 > Moral instruction came from the lips of all those who surrounded the young baron, and he assimilated all this naturally – instructions on politeness, deportment and good manners. They can be summed up in one word: courtesy.  
