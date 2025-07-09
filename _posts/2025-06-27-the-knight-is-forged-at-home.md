@@ -44,24 +44,15 @@ Although we cannot become a knight in the medieval sense with a sword and shield
 
 In his masterpiece *La Chevalerie* [Chivarly], Léon Gautier describes the life of a knight: his birth, Baptism, childhood, education, knighthood, espousals, and domestic and military life.
 
-> When a noble child was very young, his mother taught him his prayer. His formal education began at seven years of age. The religious instruction generally did not consist of a special course, since all the acts of the young knight were stamped with Christian ideals.
-> 
-> Moral instruction came from the lips of all those who surrounded the young baron, and he assimilated all this naturally – instructions on politeness, deportment and good manners. They can be summed up in one word: courtesy.
-> 
-> Both the mother and the father of the future knight were deeply involved in teaching the young baron lessons in courtesy.
-> 
-> “It is always best to begin with God,” his mother would say. “In the difficult hours of your life, remember that He will never desert you if you put your trust in Him. Remember the story of Aiol. His father Elie was exiled from France, disinherited, and sick, living in a miserable hovel. When the day came that Elie had to send his son to recover his territory, he could give him nothing but rusty armor, an old shield, and four pence. But he spoke these noble words, ‘Son, if you lack anything - go to your Father in Heaven.’ And the child replied, ‘If we do not have enough here, God at least has plenty!’ That is the faith you must have in your heart.”
-> 
-> His father would tell him, “You must have confidence in God, but also you must also have justice on your side. Be assured, my child, that if you fight for God and for right, you will conquer.”
-> 
-> “Above all, be humble,” his mother would continue. “If you had 100 horses in your stables and all the wealth of the world, nothing would go well for you if pride possessed your heart. In one single day, pride can cause a man to lose what it takes him seven years to gain.
-> 
-> “Be generous and magnanimous. Be the patron of the poor, the widow, and the orphan. Practice largesse. An old proverb tells us, ‘He is not foolish who gives first.’ But it should not be self-interest that prompts you in your giving. Be mindful of the lines we heard a minstrel sing the other day: ‘Be liberal, give largely. The more you give away, the more honor you will gain, and the richer you will be.’ …
-> 
-> “And since your father has spoken of knights, I will add that there is another tribute you should pay good men, and that is respect. Rise up when in the presence of a good man, and when you are on the road salute everyone. Do not jest or banter with the poor, and be humble in your dealings with both the great and the small. To all, show a smiling countenance and joyful mien. These things cost so little.
-> 
-> “Eat well, but do not drink too much wine. As for chess, be on your guard with this game, which has cost the life of many a knight. It has happened more than once that a game has had a disastrous ending, and it was in fact a great blow from a chess board, delivered by Charlemagne's son, that killed the charming Baudouinet, nephew of Ogier the Danish. All games, of course, do not end in such catastrophe; still, too often one loses his money and even his horses. Take care.
-> 
+> When a noble child was very young, his mother taught him his prayer. His formal education began at seven years of age. The religious instruction generally did not consist of a special course, since all the acts of the young knight were stamped with Christian ideals.  
+> Moral instruction came from the lips of all those who surrounded the young baron, and he assimilated all this naturally – instructions on politeness, deportment and good manners. They can be summed up in one word: courtesy.  
+> Both the mother and the father of the future knight were deeply involved in teaching the young baron lessons in courtesy.  
+> “It is always best to begin with God,” his mother would say. “In the difficult hours of your life, remember that He will never desert you if you put your trust in Him. Remember the story of Aiol. His father Elie was exiled from France, disinherited, and sick, living in a miserable hovel. When the day came that Elie had to send his son to recover his territory, he could give him nothing but rusty armor, an old shield, and four pence. But he spoke these noble words, ‘Son, if you lack anything - go to your Father in Heaven.’ And the child replied, ‘If we do not have enough here, God at least has plenty!’ That is the faith you must have in your heart.”  
+> His father would tell him, “You must have confidence in God, but also you must also have justice on your side. Be assured, my child, that if you fight for God and for right, you will conquer.”  
+> “Above all, be humble,” his mother would continue. “If you had 100 horses in your stables and all the wealth of the world, nothing would go well for you if pride possessed your heart. In one single day, pride can cause a man to lose what it takes him seven years to gain.  
+> “Be generous and magnanimous. Be the patron of the poor, the widow, and the orphan. Practice largesse. An old proverb tells us, ‘He is not foolish who gives first.’ But it should not be self-interest that prompts you in your giving. Be mindful of the lines we heard a minstrel sing the other day: ‘Be liberal, give largely. The more you give away, the more honor you will gain, and the richer you will be.’ …  
+> “And since your father has spoken of knights, I will add that there is another tribute you should pay good men, and that is respect. Rise up when in the presence of a good man, and when you are on the road salute everyone. Do not jest or banter with the poor, and be humble in your dealings with both the great and the small. To all, show a smiling countenance and joyful mien. These things cost so little.  
+> “Eat well, but do not drink too much wine. As for chess, be on your guard with this game, which has cost the life of many a knight. It has happened more than once that a game has had a disastrous ending, and it was in fact a great blow from a chess board, delivered by Charlemagne's son, that killed the charming Baudouinet, nephew of Ogier the Danish. All games, of course, do not end in such catastrophe; still, too often one loses his money and even his horses. Take care.  
 > “As a general rule, my son, avoid the company of ruffians and evil men. One sees too many of them today, and it is not meet that men of lowly birth and of low ideals should sit with barons, or that the valet should sit at the table with his master.  
 > “But do not think that the men of the people are all worthless - far from it!” his mother warns. “And you would be well advised to think upon their proverbs. They are both charming and full of truth. You are already eager for adventure. Remember, ‘The bird who tries to fly before it is fledged falls to the ground.’ Youth like to talk too much, but remember, ‘Wise silence is better than foolish talking.’ You love danger; think of this proverb, ‘He who goes too close to the fire to warm himself can get burned.’ Do not rush blindly into the lion's mouth.  
 > “Do not imitate the lamb that plays with the wolf. Beware of traitors – you will find them everywhere. Do not accept fine promises from the first comer; remember ‘One bird in the hand is worth four in the bush.’ … Above all, remember that you are of good stock and, as another old proverb says, ‘The son of a cat ought to catch mice.’ Imitate your father in all things, and you will do well.”  
@@ -84,5 +75,10 @@ There is a wonderful medieval tale called Sir Hugh of Tabarie in which Sir Hugh 
 > “For reason, sire, that your body is but an empty vessel.”  
 > “Empty of what, Sir Hugh?”  
 > “Sire, of Christianity and of baptism.”
+
+Boys and young men, we have the sacraments. Thanks to Archbishop Lefebvre we have the Holy Sacrifice of the Mass. The graces are here. We shall fight for the Kingship of Christ. Start by loving your family.
+
+> "This is my commandment, that you love one another, as I have loved you. Greater love than this no man hath, that a man lay down his life for his friends."
+> — *John 15:12-13*
 
 
