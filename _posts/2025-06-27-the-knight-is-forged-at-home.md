@@ -85,7 +85,7 @@ Boys and young men, we have the sacraments. Thanks to Archbishop Lefebvre we hav
 
 I will conclude with two poems and an interesting fact. 
 
-Eustace Deschamps who lived from 1340 to 1410 wrote a poem called The Knightly Code in which he attempts in verse to express what it means to be a knight. Here it is:
+Eustace Deschamps who lived from 1340 to 1410 wrote a poem called *The Knightly Code* in which he attempts in verse to express what it means to be a knight. Here it is:
 
 > You who seek the knightly order  
 > Must begin your life anew;  
@@ -117,7 +117,7 @@ Eustace Deschamps who lived from 1340 to 1410 wrote a poem called The Knightly C
 > Thus' a knight like Alexander  
 > May you hope in time to be.
 
-Here is Crusaders' Song from the Chronicle of the Dukes of Normandy (1145):
+Here is Crusaders' Song from the *Chronicle of the Dukes of Normandy* (1145):
 
 > Take the good and cast the evil,  
 > Listen, people, to my song,  
