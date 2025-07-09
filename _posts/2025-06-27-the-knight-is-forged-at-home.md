@@ -185,4 +185,4 @@ Here is Crusaders' Song from the *Chronicle of the Dukes of Normandy* (1145):
 > That in loving you I’ve almost  
 > Oft forgot my God of yore!  
 
-When a sailor or a marine steps on board ship, he turns to the quarter deck and salutes and continues on. We do it because the Royal Navy does it. The Royal Navy does it because prior to the Protestant Revolution on the quarter deck of British ships there was an image of Our Lady. Whenever a sailor would come on board ship he would turn to Our Lady and salute her. When the Reformation came, the got rid of the statues but kept the salute.
+When a sailor or a marine steps on board ship, he turns to the quarter deck and salutes and continues on. We do it because the Royal Navy does it. The Royal Navy does it because prior to the Protestant Revolution on the quarter deck of British ships there was an image of Our Lady. Whenever a sailor would come on board ship he would turn to Our Lady and salute her. When the Reformation came, they got rid of the statues but kept the salute.
