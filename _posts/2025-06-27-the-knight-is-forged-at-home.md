@@ -81,7 +81,7 @@ Boys and young men, we have the sacraments. Thanks to Archbishop Lefebvre we hav
 > "This is my commandment, that you love one another, as I have loved you. Greater love than this no man hath, that a man lay down his life for his friends."
 > — *John 15:12-13*
 
-# Poetry for Strength
+## Poetry for Strength
 
 I will conclude with two poems and an interesting fact. 
 
