@@ -34,6 +34,7 @@ In situations where a knight was made with the proper preparation, the actual kn
 1. Thou shalt be generous, and give largesse to everyone.  
 1. Thou shalt be everywhere and always the champion of the Right and the Good against Injustice and Evil.
 
+## The Knight
 
 
 ## The Forge — Home and Family
