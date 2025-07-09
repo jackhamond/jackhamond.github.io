@@ -13,11 +13,13 @@ tags: [chivalry]
 > "Chivalry is the Christian form of the military profession: the knight is the Christian soldier."
 > — *Dom Gérard Calvet*
 
-## The Call of the Trumpet
+## Beyond the Armour
 
-What is a knight? One may think of a knight as a man in armor with a sword in one hand and a shield in the other, but this is only what a knight wears—it does not tell you what a knight is. Who is the man in the armor and why does he have a sword and shield? What makes him a knight? Who has made him a knight? What is his reason for being a knight?
+What is a knight? One may think of a knight as a man in armour with a sword in one hand and a shield in the other, but this is only what a knight wears—it does not tell you what a knight is. Who is the man in the armour and why does he have a sword and shield? What makes him a knight? Who has made him a knight? What is his reason for being a knight?
 
 When the Church stood at the center of every city, and Christ was King not just in name but in law and life, there were men called knights. They fasted before battle. They kept vigil in chapels with their swords laid across the altar. They stood before bishops who gave them not just a sword—but a mission: **To defend the weak. To fight for the Church. To live as Christian soldiers.**
+
+## The Shape of the Knight
 
 At the imposition of the sword that was given at a knighting ceremony that you could find in the Roman Pontifical up until 1962 the bishop would say: Receive this sword, in the name of the + Father and of the + Son, and of the + Holy Ghost. Use it for thine own defense and for the defense of Holy Mother Church, and to the confounding of the enemies of the Cross of Christ and the Christian faith, and inasmuch as our human frailty permits, may you never unjustly strike any man. May Our Lord deign to grant you this, who lives with the Father and the Holy Ghost, world without end. Amen.
 
@@ -35,6 +37,19 @@ In situations where a knight was made with the proper preparation, the actual kn
 1. Thou shalt be everywhere and always the champion of the Right and the Good against Injustice and Evil.
 
 ## The Knight
+
+Although we cannot become a knight in the medieval sense with a sword and shield, armour, and ceremony, we can and must strive after the principles of the knight. Just as the knights were nourished and strengthened by the body and blood of Our Lord Jesus Christ in the most Holy Eucharist, we too must have recourse to the sacraments that we might uphold the ideals of the knighthood.
+
+There is a wonderful medieval tale called Sir Hugh of Tabarie in which Sir Hugh is captured by King Saladin—more accurately known as Salah ad-Din Yusuf ibn Ayyub—who was a Muslim ruler. In the tale, King Saladin asks Sir Hugh to make him a knight. Here is a snippet of the story:
+> When they were entered into the pavilion, the Emperor Saladin sought to know of Sir Hugh in what fashion a man was made knight of the Christian chivalry, and required of him that he should show it to his eyes.
+> “Sire, whom then should I dub knight?”
+> “Myself,” answered the King.
+> “Sire, God forbid that I should be so false as to confer so high a gift and so fair a lordship even upon the body of so mighty a prince as you.”
+> “But wherefore?” said the King.
+> “For reason, sire, that your body is but an empty vessel.”
+> “Empty of what, Sir Hugh?”
+> “Sire, of Christianity and of baptism.”
+
 
 
 ## The Forge — Home and Family
