@@ -41,14 +41,14 @@ In situations where a knight was made with the proper preparation, the actual kn
 Although we cannot become a knight in the medieval sense with a sword and shield, armour, and ceremony, we can and must strive after the principles of the knight. Just as the knights were nourished and strengthened by the body and blood of Our Lord Jesus Christ in the most Holy Eucharist, we too must have recourse to the sacraments that we might uphold the ideals of the knighthood.
 
 There is a wonderful medieval tale called Sir Hugh of Tabarie in which Sir Hugh is captured by King Saladin—more accurately known as Salah ad-Din Yusuf ibn Ayyub—who was a Muslim ruler. In the tale, King Saladin asks Sir Hugh to make him a knight. Here is a snippet of the story:
-> When they were entered into the pavilion, the Emperor Saladin sought to know of Sir Hugh in what fashion a man was made knight of the Christian chivalry, and required of him that he should show it to his eyes.
-> “Sire, whom then should I dub knight?”
-> “Myself,” answered the King.
-> “Sire, God forbid that I should be so false as to confer so high a gift and so fair a lordship even upon the body of so mighty a prince as you.”
-> “But wherefore?” said the King.
-> “For reason, sire, that your body is but an empty vessel.”
-> “Empty of what, Sir Hugh?”
-> “Sire, of Christianity and of baptism.”
+> When they were entered into the pavilion, the Emperor Saladin sought to know of Sir Hugh in what fashion a man was made knight of the Christian chivalry, and required of him that he should show it to his eyes.  
+> “Sire, whom then should I dub knight?”  
+> “Myself,” answered the King.  
+> “Sire, God forbid that I should be so false as to confer so high a gift and so fair a lordship even upon the body of so mighty a prince as you.”  
+> “But wherefore?” said the King.  
+> “For reason, sire, that your body is but an empty vessel.”  
+> “Empty of what, Sir Hugh?”  
+> “Sire, of Christianity and of baptism.”  
 
 
 
