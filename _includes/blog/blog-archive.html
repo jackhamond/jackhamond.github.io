@@ -12,7 +12,7 @@
       {% endunless %}
     {% endfor %}
 
-    {% assign sorted = archive | sort | reverse %}
+    {% assign sorted = archive | sort %}
     {% assign current_year = "" %}
 
     {% for entry in sorted %}
