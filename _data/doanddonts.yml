@@ -1,26 +1,31 @@
 dos:
-  - Smoke pipes and cigars
-  - Drink coffee (preferred brewing method is french press)
-  - Think arranged marriages are good
-  - Drink raw milk
-  - Recite the rosary everyday
-  - Filter water (in reverse osmosis)
-  - Listen to folk and classical music
-  - Consider myself a High Functioning Troglodyte (HFT)
-  - Eat organic food
-  - Think tobacco is good for men
-  - Think that women wearing pants leads to transgenderism
+  - title: Smoke pipes and cigars
+  - title: Drink coffee
+    note: Preferred brewing method is French press
+  - title: Think arranged marriages are good
+  - title: Drink raw milk
+  - title: Recite the rosary every day
+  - title: Filter water
+    note: Use reverse osmosis
+  - title: Listen to folk and classical music
+  - title: Consider myself a High Functioning Troglodyte (HFT)
+  - title: Eat organic food
+  - title: Think tobacco is good for men
+  - title: Think that women wearing pants leads to transgenderism
 
 donts:
-  - Eat seed oils and ultraprocessed food
-  - Attend the Novus Ordo Missae
-  - Wear shorts, t-shirts, and uncollared shirts
-  - Use Windows OS (except for work)
-  - Play video games
-  - Swear (especially in front of women and children)
-  - Listen to bad music
-  - Smoke cigarettes (unless hand-rolled with pure tobacco)
-  - Use cloud storage
-  - Use plastic
-  - Watch TV, shows, movies
-  - Go to a gym
+  - title: Eat seed oils and ultraprocessed food
+  - title: Attend the Novus Ordo Missae
+  - title: Wear shorts, t-shirts, and uncollared shirts
+  - title: Use Windows OS
+    note: Except for work
+  - title: Play video games
+  - title: Swear
+    note: Especially in front of women and children
+  - title: Listen to bad music
+  - title: Smoke cigarettes
+    note: Unless hand-rolled with pure tobacco
+  - title: Use cloud storage
+  - title: Use plastic
+  - title: Watch TV, shows, movies
+  - title: Go to a gym
