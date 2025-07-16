@@ -1,0 +1,24 @@
+---
+layout: default
+title: Do's and Don'ts
+---
+
+<div class="dos-donts-container">
+  <div class="column dos">
+    <h2>Do</h2>
+    <ul>
+      {% for item in site.data.dosanddonts.dos %}
+        <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="column donts">
+    <h2>Don't</h2>
+    <ul>
+      {% for item in site.data.dosanddonts.donts %}
+        <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
