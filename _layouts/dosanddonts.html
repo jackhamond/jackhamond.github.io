@@ -2,12 +2,19 @@
 layout: default
 ---
 
+---
+layout: default
+---
+
 <div class="dos-donts-container">
   <div class="column dos">
     <h2>Do</h2>
     <ul>
       {% for item in site.data.dosanddonts.dos %}
-        <li>{{ item }}</li>
+        <li>
+          <strong>{{ item.title }}</strong>
+          {% if item.note %}<br><small>{{ item.note }}</small>{% endif %}
+        </li>
       {% endfor %}
     </ul>
   </div>
@@ -16,7 +23,10 @@ layout: default
     <h2>Don't</h2>
     <ul>
       {% for item in site.data.dosanddonts.donts %}
-        <li>{{ item }}</li>
+        <li>
+          <strong>{{ item.title }}</strong>
+          {% if item.note %}<br><small>{{ item.note }}</small>{% endif %}
+        </li>
       {% endfor %}
     </ul>
   </div>
