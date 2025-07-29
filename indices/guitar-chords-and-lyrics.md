@@ -7,8 +7,8 @@ permalink: /research/guitar-chords-and-lyrics
 {% assign sorted_guitar-chords-and-lyrics = site.guitar-chords-and-lyrics | sort: "title" %}
 
 {% for song in sorted_guitar-chords-and-lyrics %}
-## [{{ song.title }}]({{ poem.url }})
+## [{{ song.title }}]({{ song.url }})
 
-*{{ poem.artist }}*
+*{{ song.artist }}*
 
 {% endfor %}
