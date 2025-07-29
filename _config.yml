@@ -13,4 +13,7 @@ collections:
   recipes:
     output: true
     permalink: /research/recipes/:name/
+  guitar-chords-and-lyrics:
+    output: true
+    permalink: /research/guitar-chords-and-lyrics/:name/
     
