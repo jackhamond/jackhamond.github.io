@@ -9,10 +9,8 @@ capo:
 # The Fields of Athenry
 
 <pre>
-[Intro]  
-| A    | A    | D    | D    |  
-
 [Verse 1]  
+        
 G                          C                  G  D  
 By a lonely prison wall, I heard a young girl calling  
 G                  C          D  
@@ -23,6 +21,7 @@ For you stole Trevelyan's corn so the young might see the morn'
 Now a prison ship lies waiting in the bay  
 
 [Chorus]  
+        
 G   C       G              Em  
 Low lie the fields of Athenry  
       G                                    D  
@@ -35,6 +34,7 @@ We had dreams and songs to sing
 It's so lonely round the fields of Athenry  
 
 [Verse 2]  
+        
      G                     C                 G  D  
 By a lonely prison wall, I heard a young man calling  
 G                C                 D  
@@ -45,6 +45,7 @@ Against the famine and the crown, I rebelled, they cut me down
 Now you must raise our child with dignity  
 
 [Chorus]  
+        
 G   C       G              Em  
 Low lie the fields of Athenry  
       G                                    D  
@@ -57,6 +58,7 @@ We had dreams and songs to sing
 It's so lonely round the fields of Athenry  
 
 [Verse 3]  
+        
      G                        C                     G  D  
 By a lonely harbour wall, she watched the last star falling  
        G                  C               D  
@@ -67,6 +69,7 @@ For she'd live in hope and pray for her love in Botany Bay
 It's so lonely round the fields of Athenry  
 
 [Chorus]  
+        
 G   C       G              Em  
 Low lie the fields of Athenry  
       G                                    D  
