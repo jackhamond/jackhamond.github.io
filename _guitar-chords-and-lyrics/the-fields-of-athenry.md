@@ -7,7 +7,8 @@ capo:
 ---
 
 # The Fields of Athenry
-{% raw %}
+
+<pre>
 [Intro]  
 | A    | A    | D    | D    |  
 
@@ -76,4 +77,4 @@ Our love was on the wing
 We had dreams and songs to sing  
         Am               D             G  
 It's so lonely round the fields of Athenry  
-{% endraw %}
+</pre>
