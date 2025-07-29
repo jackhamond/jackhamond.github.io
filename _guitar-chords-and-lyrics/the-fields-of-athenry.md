@@ -1,5 +1,4 @@
 ---
-layout: song
 title: The Fields of Athenry
 artist: The Dubliners
 key: E
