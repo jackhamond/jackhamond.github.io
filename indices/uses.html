@@ -4,18 +4,28 @@ title: "My Uses"
 ---
 
 {% assign sorted_uses = site.data.uses | sort: 'section' %}
-
 {% capture current_section %}{% endcapture %}
 
 {% for item in sorted_uses %}
   {% if item.section != current_section %}
+    {% unless forloop.first %}</ul>{% endunless %}
     <h2>{{ item.section }}</h2>
+    <ul>
     {% assign current_section = item.section %}
   {% endif %}
 
-  <div class="use-item">
-    <h3>{{ item.name }} <span class="item-type">({{ item.type }})</span></h3>
-    <p>{{ item.note }}</p>
-    <p><strong>Tags:</strong> {{ item.tags | join: ', ' }}</p>
-  </div>
+  <li>
+    <strong>{{ item.name }}</strong> <span class="item-type">({{ item.type }})</span>
+    {% if item.note or item.tags.size > 0 %}
+      <ul>
+        {% if item.note %}
+          <li>{{ item.note }}</li>
+        {% endif %}
+        {% if item.tags.size > 0 %}
+          <li><strong>Tags:</strong> {{ item.tags | join: ', ' }}</li>
+        {% endif %}
+      </ul>
+    {% endif %}
+  </li>
 {% endfor %}
+</ul>
