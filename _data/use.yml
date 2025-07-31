@@ -1,71 +1,71 @@
 - name: "Newsboat"
   note: "A text-based RSS feed reader for staying up-to-date with news."
-  tags: ["software"]
-  section: "Software"
+  tags: [""]
+  section: "Computer Software"
   type: "RSS Reader"
 
 - name: "hledger"
   note: ""
   tags: ["finances"]
-  section: "Software"
+  section: "Computer Software"
   type: "Finance Manager"
 
 - name: "w3m"
   note: ""
   tags: []
-  section: "Software"
+  section: "Computer Software"
   type: "Text-Based Browser"
 
 - name: "Neovim"
   note: ""
   tags: []
-  section: "Software"
+  section: "Computer Software"
   type: "Text Editor"
 
 - name: "Brave"
   note: ""
   tags: []
-  section: "Software"
+  section: "Computer Software"
   type: "Browser"
 
 - name: "lf"
   note: ""
   tags: []
-  section: "Software"
+  section: "Computer Software"
   type: "File Manager"
 
 - name: "mpv"
   note: ""
   tags: []
-  section: "Software"
+  section: "Computer Software"
   type: "Video Player"
 
 - name: "cs-im"
   note: ""
   tags: []
-  section: "Software"
+  section: "Computer Software"
   type: "CVS Editor"
 
 - name: "Zathura"
   note: ""
   tags: []
-  section: "Software"
+  section: "Computer Software"
   type: "PDF Viewer"
 
 - name: "tmux"
   note: ""
   tags: []
-  section: "Software"
+  section: "Computer Software"
   type: "Terminal Multiplexer"
 
 - name: "VLC"
   note: ""
   tags: []
-  section: "Apps"
+  section: "iPhone Apps"
   type: "Offline Media Player"
 
 - name: "Organic Maps"
   note: ""
   tags: []
-  section: "Apps"
+  section: "iPhone Apps"
   type: "Navigation"
