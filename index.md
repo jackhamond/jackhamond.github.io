@@ -11,5 +11,6 @@ Thank you for vising my website. The purpose of this website is to serve as a pe
 |:--------------------------------------------------------:|:-----------------------------------------|  
 | [Dos & Don'ts](https://jackhamond.github.io/dosanddonts/) | Things I do and things I don't do |  
 | [Professional Website](https://jackhamondpro.github.io/) | Basically my résumé in a minimal website |  
-| [Links](/indices/links.html)                                         | Links to other sites |  
+| [Links](/indices/links.html) | Links to other sites |  
+| [Links](/indices/uses.html) | Things I Use |  
 
