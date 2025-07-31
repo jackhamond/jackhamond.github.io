@@ -1,35 +1,35 @@
-- name: "Newsboat"
-  note: "A text-based RSS feed reader for staying up-to-date with news."
-  tags: [""]
+- name: " Newsboat"
+  note: "A text-based RSS feed reader. It is written in C++ so it is incredibly fast. It of course comes with vim-style keybinds."
+  tags: []
   section: "Computer Software"
   type: "RSS Reader"
 
 - name: "hledger"
-  note: ""
-  tags: ["finances"]
+  note: "A terminal-based accounting tool. All financial data is stored in plain text and I can generate reports fast."
+  tags: []
   section: "Computer Software"
   type: "Finance Manager"
 
 - name: "w3m"
-  note: ""
+  note: "I used to use brave for everything I did on the internet. There are two reasons why I prefer to use w3m when possible. The first is that I don't have to leave the terminal. The second is that GUIs tend to be a place where I can easily get distracted; I would go to brave to look something up and 45 minutes I would realize I got distracted. w3m uses vim-style bindings."
   tags: []
   section: "Computer Software"
   type: "Text-Based Browser"
 
 - name: "Neovim"
-  note: ""
+  note: "I hate emacs."
   tags: []
   section: "Computer Software"
   type: "Text Editor"
 
 - name: "Brave"
-  note: ""
+  note: "Once I found out that vanilla firefox is not privacy respecting out of the box I just went to brave."
   tags: []
   section: "Computer Software"
   type: "Browser"
 
 - name: "lf"
-  note: ""
+  note: "lf is fast."
   tags: []
   section: "Computer Software"
   type: "File Manager"
