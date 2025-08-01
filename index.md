@@ -4,7 +4,7 @@ title: "Home"
 
 # Home
 
-Thank you for vising my website. The purpose of this website is to serve as a personal archive for me where I can centralize my research on a variety of subjects and host my blog which will serve as a place to document thoughts in an unstructured manner.
+Hello, my name is Jack Hamond. I am a traditional Roman Catholic husband and father. I enjoy spending quality time with my family, smoking pipes and cigars, and reading good books. My temperment is a decent mix of choleric and sanguine. My confirmation saint is the Angelic Doctor, St. Thomas Aquinas. I go to Church at [St. Michael's Traditional Roman Catholic Church](https://stm-nd.sspx.org/) in Mandan, ND. To see what books I have read and have influenced me, go to [My Library](/library/); please keep in mind that it is a working list.
 
 ## Check these out
 
