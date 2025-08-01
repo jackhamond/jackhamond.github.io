@@ -1,17 +1,19 @@
 current:
-  title: "The Hobbit"
-  author: "J.R.R. Tolkien"
+  title: "The Death of Christian Culture"
+  author: "Dr. John Senior"
 
 next:
-  title: "The Lord of the Rings"
-  author: "J.R.R. Tolkien"
+  title: "The Restoration of Christian Culture"
+  author: "Dr. John Senior"
 
 previous:
+  - title: "The Hobbit"
+    author: "J.R.R Tolkien"
   - title: "The Quantum Enigma"
-    author: "Wolfgang Smith"
+    author: "Dr. Wolfgang Smith"
   - title: "The Merchant of Venice"
     author: "William Shakespeare"
   - title: "Voice of the Trumpet"
-    author: "David Allen White Ph.D"
+    author: "Dr. David Allen White"
   - title: "Marcel Lefebvre: The Biography"
     author: "Bp. Bernard Tissier de Mallerais"
