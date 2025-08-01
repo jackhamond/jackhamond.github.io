@@ -14,9 +14,6 @@ permalink: /library/
       {% endif %}
       <br>
       <em>by {{ book.author }}</em> ({{ book.published }})<br>
-      <strong>LCC:</strong> {{ book.lcc }}<br>
-      <strong>Tags:</strong> {{ book.tags | join: ", " }}<br>
-      <strong>Notes:</strong> {{ book.notes }}
     </li>
     <hr>
   {% endfor %}
