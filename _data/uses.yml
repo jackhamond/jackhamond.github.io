@@ -35,37 +35,37 @@
   type: "File Manager"
 
 - name: "mpv"
-  note: ""
+  note: "mpv is the best media player."
   tags: []
   section: "Computer Software"
   type: "Video Player"
 
 - name: "cs-im"
-  note: ""
+  note: "I don't use cs-im very often and I honestly don't know a lot about the tool, but I have Excel so this is a win."
   tags: []
   section: "Computer Software"
   type: "CVS Editor"
 
 - name: "Zathura"
-  note: ""
+  note: "Zathura is the best. "
   tags: []
   section: "Computer Software"
   type: "PDF Viewer"
 
 - name: "tmux"
-  note: ""
+  note: "I have been using dwm from suckless on my main laptop, but I have tmux on my work machine."
   tags: []
   section: "Computer Software"
   type: "Terminal Multiplexer"
 
 - name: "VLC"
-  note: ""
+  note: "I enjoy listening to music or a podcast with my WiFi and cellular data turned off. When I know when I will want to listen to something I download it and put it in my VLC folder on my iPhone. VLC is local and open source."
   tags: []
   section: "iPhone Apps"
   type: "Offline Media Player"
 
 - name: "Organic Maps"
-  note: ""
+  note: "No ads, no tracking, no data collection, open source, saves battery, etc."
   tags: []
   section: "iPhone Apps"
   type: "Navigation"
