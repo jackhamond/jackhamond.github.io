@@ -33,14 +33,14 @@ from sea to shining sea!
 
 [Verse 2]  
 
-  G             D  
-O beautiful for pilgrim feet,  
-      D7                G  
-whose stern impassioned stress  
+     G             D  
+More beautiful for Catholic names,  
+      D7                   G  
+Which claimed Thee for our King  
                   D  
-A thoroughfare of freedom beat,  
+For Masses read, and priests' blood shed,  
  A         A7    D   D7  
-across the wilderness!  
+Which souls to heaven bring.  
 
 [Chorus]
 
@@ -56,13 +56,13 @@ from sea to shining sea!
 [Verse 3]  
 
   G             D  
-O beautiful for heroes proved,  
+Immaculate, O Mother dear,  
    D7         G  
-in liberating strife.  
+Protect our native land.  
                          D  
-Who more than self their country loved,  
+We consecrate our hearts to thee,  
     A     A7        D   D7  
-and mercy more than life!  
+Lest we have built on sand.  
 
 [Chorus]
 
