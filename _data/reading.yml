@@ -3,10 +3,14 @@ current:
   author: "Dr. John Senior"
 
 next:
-  title: "The Other Wise Man"
-  author: "Henry van Dyke"
+  title: "Some chapters of Barren Metal: a history of capitalism as the conflict between labor and usury"
+  author: "Dr. E. Michael Jones"
 
 previous:
+  - title: "The Other Wise Man"
+    author: "Henry van Dyke"
+  - title: "The Restoration of Christian Culture"
+    author: "Dr. John Senior"
   - title: "The Death of Christian Culture"
     author: "Dr. John Senior"
   - title: "The Hobbit"
