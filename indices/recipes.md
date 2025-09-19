@@ -4,9 +4,25 @@ permalink: /research/recipes/
 layout: default
 ---
 
-{% assign sorted_recipes = site.recipes | sort: "title" %}
+<div class="recipes">
+  {% for recipe in site.data.recipes %}
+    <article class="recipe">
+      <h2>{{ recipe.title }}</h2>
+      <p><em>{{ recipe.description }}</em></p>
 
-{% for recipe in sorted_recipes %}
-  <h2><a href="{{ recipe.url }}">{{ recipe.title }}</a></h2>
-  {{ recipe.content }}
-{% endfor %}
+      <h3>Ingredients</h3>
+      <ul>
+        {% for item in recipe.ingredients %}
+          <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+
+      <h3>Steps</h3>
+      <ol>
+        {% for step in recipe.steps %}
+          <li>{{ step }}</li>
+        {% endfor %}
+      </ol>
+    </article>
+  {% endfor %}
+</div>
