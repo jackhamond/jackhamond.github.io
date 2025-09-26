@@ -5,7 +5,7 @@ permalink: /library/
 ---
 
 <ul>
-  {% assign books = site.data.library | sort: "title" %}
+  {% assign books = site.data.library.library | sort: "title" %}
   {% for book in books %}
     <li>
       <strong>{{ book.title }}</strong>  
