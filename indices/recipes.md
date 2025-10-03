@@ -10,14 +10,7 @@ layout: default
       <h2>{{ recipe.title }}</h2>
       <p><em>{{ recipe.description }}</em></p>
 
-      <h3>Ingredients</h3>
-      <ul>
-        {% for item in recipe.ingredients %}
-          <li>{{ item }}</li>
-        {% endfor %}
-      </ul>
-
-      <h3>Steps</h3>
+      <h4>Steps</h4>
       <ol>
         {% for step in recipe.steps %}
           <li>{{ step }}</li>
