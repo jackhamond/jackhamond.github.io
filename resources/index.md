@@ -8,3 +8,4 @@ title: "Resources"
 
 ## Concepts
  - [Chivalry](/resources/concepts/chivalry/)
+ - [Nursery Rhymes](/resources/concepts/nursery-rhymes/)
