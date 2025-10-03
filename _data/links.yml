@@ -8,7 +8,31 @@
   description: "Middle Ages for kids."
   tags: ["history"]
 
+- title: "Catholic Apologetic Information"
+  url: "https://www.catholicapologetics.info/"
+  tags: ["traditional catholic"]
+
+- title: "Catholic Tradition"
+  url: "https://www.catholictradition.org/main-index.htm"
+  tags: ["traditional catholic"]
+
 - title: "Fish Eaters"
   url: "https://www.fisheaters.com/"
   tags: ["traditional catholic"]
-  
+
+- title: "Free Traditional Catholic Books"
+  url: "https://www.traditionalcatholic.co/"
+  tags: ["traditional catholic"]
+
+- title: "Our Lady of the Rosary Library"
+  url: "https://www.olrl.org/"
+  tags: ["traditional catholic"]
+
+- title: "Praying Latin"
+  url: "https://www.prayinglatin.com/"
+  tags: ["traditional catholic"]
+
+- title: "Unam Sanctam Catholicam"
+  url: "https://unamsanctamcatholicam.com/"
+  description: "Some phenomenal essays."
+  tags: ["traditional catholic"]
