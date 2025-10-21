@@ -24,6 +24,16 @@
   url: "https://www.traditionalcatholic.co/"
   tags: ["traditional catholic"]
 
+- title: "Liveuamap"
+  url: "https://liveuamap.com"
+  description: "Live Universal Awareness Map is a place to see news on maps."
+  tags: ["OSINT"]
+
+- title: "Open Infrastructure Map"
+  url: "https://openinframap.org"
+  description: "Open map of the world's electricity, telecoms, oil, and gas infrastructure, using data from OpenStreetMap."
+  tags: ["OSINT"]
+
 - title: "Our Lady of the Rosary Library"
   url: "https://www.olrl.org/"
   tags: ["traditional catholic"]
