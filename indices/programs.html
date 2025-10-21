@@ -1,13 +1,13 @@
 ---
-title: "My Uses"
+title: "My Programs"
 layout: default
-permalink: /uses/
+permalink: /programs/
 ---
 
-{% assign sorted_uses = site.data.uses | sort: 'section' %}
+{% assign sorted_programs = site.data.programs | sort: 'section' %}
 {% capture current_section %}{% endcapture %}
 
-{% for item in sorted_uses %}
+{% for item in sorted_programs %}
   {% if item.section != current_section %}
     {% unless forloop.first %}</ul>{% endunless %}
     <h2>{{ item.section }}</h2>
