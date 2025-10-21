@@ -36,3 +36,8 @@
   url: "https://unamsanctamcatholicam.com/"
   description: "Some phenomenal essays."
   tags: ["traditional catholic"]
+
+- title: "World Imagery Wayback"
+  url: "https://livingatlas.arcgis.com/wayback"
+  description: "Digital archive of the World Imagery basemap."
+  tags: ["OSINT"]
