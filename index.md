@@ -12,6 +12,6 @@ Hello, my name is Jack Hamond. I am a traditional Roman Catholic husband and fat
 | [Dos & Don'ts](/dosanddonts/) | Things I do and things I don't do |  
 | [Professional Website](https://jackhamondpro.github.io/) | Basically my résumé in a minimal website |  
 | [Links](/indices/links.html) | Links to other sites that I like |  
-| [My Uses](/indices/programs.html) | The computer programs I use |  
+| [Programs](/indices/programs.html) | The computer programs I use |  
 | [Resources](/resources/) | Scrambled resources to begin research on a subject |  
 
