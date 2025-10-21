@@ -20,6 +20,11 @@
   url: "https://www.fisheaters.com/"
   tags: ["traditional catholic"]
 
+- title: "Flight Radar 24"
+  url: "https://www.flightradar24.com/"
+  description: "Track flight."
+  tags: ["OSINT"]
+
 - title: "Free Traditional Catholic Books"
   url: "https://www.traditionalcatholic.co/"
   tags: ["traditional catholic"]
