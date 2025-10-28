@@ -58,6 +58,12 @@
   section: "Computer Software"
   type: "Terminal Multiplexer"
 
+- name: "PASS"
+  note: "A password manager & Two Factor Authentication (OTP) with no cell phone"
+  tags: []
+  section: "Computer Software"
+  type: "Password Manager"
+
 - name: "VLC"
   note: "I enjoy listening to music or a podcast with my WiFi and cellular data turned off. When I know when I will want to listen to something I download it and put it in my VLC folder on my iPhone. VLC is local and open source."
   tags: []
