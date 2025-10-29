@@ -29,6 +29,15 @@
   url: "https://www.traditionalcatholic.co/"
   tags: ["traditional catholic"]
 
+- title: "Hambook.org"
+  url: "https://hambook.org/"
+  tags: ["Ham Radio"]
+
+- title: "HamStudy"
+  url: "https://hamstudy.org/"
+  description: "Free ham radio flash cards, practice tests, and question pools as well as introduction to ham radio and explanations for questions."
+  tags: ["Ham Radio"]
+
 - title: "Liveuamap"
   url: "https://liveuamap.com"
   description: "Live Universal Awareness Map is a place to see news on maps."
