@@ -19,5 +19,5 @@ Hello, my name is Jack Hamond. I am a traditional Roman Catholic husband and fat
 ## Others
 
 |:--------------------------------------------------------:|:-----------------------------------------|  
-| [Joe Gieser - Topic (YouTube)](https://www.youtube.com/channel/UCPoG1zOWmRYlI0CdbraT5Ew) | A friend's YouTube channel |  
-| [Two Trade School Trads (YouTube)](https://www.youtube.com/@TTSTPodcast) | Two friend's podcast |  
+| <a href="https://www.youtube.com/channel/UCPoG1zOWmRYlI0CdbraT5Ew">Joe Gieser - Topic <img src="/assets/media/images/yt.svg" style="height:15px;width:auto;" /></a> | A friend's YouTube channel |  
+| <a href="https://www.youtube.com/@TTSTPodcast">Two Trade School Trads <img src="/assets/media/images/yt.svg" style="height:15px;width:auto;" /></a> | Two friend's podcast |  
