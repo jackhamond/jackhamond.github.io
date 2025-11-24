@@ -14,7 +14,7 @@ Hello, my name is Jack Hamond. I am a traditional Roman Catholic husband and fat
 | [Links](/indices/links.html) | Links to other sites that I like |  
 | [Programs](/indices/programs.html) | The computer programs I use |  
 | [Resources](/resources/) | Scrambled resources to begin research on a subject |  
-| <a href="https://www.youtube.com/@JackHamond"><img src="/assets/media/images/yt.svg" style="height:15px;width:auto;" /></a> | My Youtube channel |  
+| <a href="https://www.youtube.com/@JackHamond"><img src="/assets/media/images/yt.svg" style="height:15px;width:auto;" /></a> | My YouTube channel |  
 
 ## Others
 
